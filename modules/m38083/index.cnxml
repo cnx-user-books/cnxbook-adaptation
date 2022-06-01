@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Write a Movie Review</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38083</md:content-id>
+  <md:title>Write a Movie Review</md:title>
+  <md:abstract/>
+  <md:uuid>18bc7d7d-d2cf-4db7-9548-42ce5d8b209e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170661114526">Once you have seen the movie, write a review as though you were a visitor to the classroom and had not read the book.</para>
+    <para id="id1170665311770">Include the following pieces of information:</para>
+    <list id="id1170683925493" list-type="bulleted">
+      <item>Summarize the story, as told in the movie.</item>
+    </list>
+    <list id="id1170693046640" list-type="bulleted">
+      <item>Describe the most important or most moving scene from the movie and explain why it worked so well.</item>
+    </list>
+    <list id="id1170658676648" list-type="bulleted">
+      <item>Explain what could have been done differently to improve the movie.</item>
+    </list>
+    <list id="id1170683139322" list-type="bulleted">
+      <item>Rate the movie from 1 to 4 "stars" (one - lowest, four - highest) and explain your rating.</item>
+    </list>
+  </content>
+</document>
